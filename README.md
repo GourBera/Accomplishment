@@ -7,4 +7,4 @@
 #### 5. Deep Learning Prerequisites => Udemy
 #### 6. SQL Fundamentals => SoloLearn
 #### 7. Python3 => SoloLearn
-####
+#### 8. Cleaning Data in Python => DataCamp
