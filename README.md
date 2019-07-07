@@ -15,3 +15,4 @@
 #### 12. Tidy Data in Python Mini-Course => DataCamp
 #### 13. Fraud Detection in Python => DataCamp
 #### 14. Model Validation in Python => DataCamp
+#### 15. Unsupervised Learning in Python => DataCamp
