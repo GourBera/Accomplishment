@@ -16,3 +16,4 @@
 #### 13. Fraud Detection in Python => DataCamp
 #### 14. Model Validation in Python => DataCamp
 #### 15. Unsupervised Learning in Python => DataCamp
+#### 16. Conda for Building & Distributing Packages => DataCamp
