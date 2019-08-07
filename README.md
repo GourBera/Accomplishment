@@ -19,3 +19,4 @@
 #### 16. Conda for Building & Distributing Packages => DataCamp
 #### 17. Reporting in SQL => DataCamp
 #### 18. Extreme Gradient Boosting with XGBoost => DataCamp
+#### 19. Machine Learning with Apache Spark => DataCamp
