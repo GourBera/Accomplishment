@@ -20,3 +20,4 @@
 #### 17. Reporting in SQL => DataCamp
 #### 18. Extreme Gradient Boosting with XGBoost => DataCamp
 #### 19. Machine Learning with Apache Spark => DataCamp
+#### 20. Object-Oriented Programming in Python => DataCamp
