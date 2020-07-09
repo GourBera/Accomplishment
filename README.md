@@ -2,7 +2,7 @@
 
 ####
 #### 1. Data Scientist Nanodegree => Udacity
-#### 2. Python for Data Science => DataCamp
+#### 2. Data Engineering Nanodegree => Udacity
 #### 3. Python S2 => Mphasis TalentNext
 #### 4. SQL => Stanford University Online
 #### 5. Deep Learning Prerequisites => Udemy
@@ -21,3 +21,4 @@
 #### 18. Extreme Gradient Boosting with XGBoost => DataCamp
 #### 19. Machine Learning with Apache Spark => DataCamp
 #### 20. Object-Oriented Programming in Python => DataCamp
+#### 21. Python for Data Science => DataCamp
