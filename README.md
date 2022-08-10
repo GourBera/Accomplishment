@@ -22,3 +22,5 @@
 #### 19. Machine Learning with Apache Spark => DataCamp
 #### 20. Object-Oriented Programming in Python => DataCamp
 #### 21. Python for Data Science => DataCamp
+#### 22. Alteryx_Designer_Core_Certification => Alteryx
+
